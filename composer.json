@@ -31,7 +31,8 @@
 	],
 	"require": {
 		"typo3/cms-core": "^9.5 || ^10",
-		"symfony/yaml": "2.6 - 4.99 || ^5"
+		"symfony/yaml": "2.6 - 4.99 || ^5",
+		"symfony/filesystem": "*"
 	},
 	"extra": {
 		"typo3/cms": {
